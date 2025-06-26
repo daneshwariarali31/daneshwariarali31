@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daneshwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400px" src="https://iconscout.com/lottie-animation/female-web-developer-5942137_4936309">
+<img align="right" alt="coding" width="400px" src="https://camo.githubusercontent.com/3e38d30f04e42688871c3de0a94852b9ec3c3b767e3ec2f9740fb144e462c47f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daneshwariarali31&label=Profile%20views&color=0e75b6&style=flat" alt="daneshwariarali31" /> </p>
 
